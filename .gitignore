@@ -1,7 +1,11 @@
 .DS_Store
 Timmy/p13/prog.exe
 Timmy/p15/prog.exe
+<<<<<<< HEAD
 Timmy/p17/prog
 Timmy/p18/prog
 Timmy/p19/prog
 Timmy/p67/prog
+=======
+*/.vscode
+>>>>>>> 59c0b43a7f94d4cdb04fa4fe6b87662e32be756b
