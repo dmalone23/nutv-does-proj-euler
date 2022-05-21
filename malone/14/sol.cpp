@@ -31,7 +31,6 @@ int main()
     {
         if (collatz_iter_count(i) >= max_iter_count)
         {
-            std::cout << "i: " << std::to_string(i) << ", count: " << std::to_string(collatz_iter_count(i)) << "\n";
             max_iter_count = collatz_iter_count(i);
             max_iter_starting_num = i;
         }
