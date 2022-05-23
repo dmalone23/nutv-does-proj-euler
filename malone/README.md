@@ -546,9 +546,8 @@ print(str(sum_total)[:10])
 
 The following iterative sequence is defined for the set of positive integers:
 
-$$n = \left\{ \begin{array}{rcl}
-\frac{n}{2}
-& n\text{ is even} \\ 3n+1 & n\text{ is odd}\end{array}\right.$$
+- If the number is even, divide it by two.
+- If the number is odd, triple it and add one.
 
 Using the rule above and starting with 13, we generate the following sequence:
 
